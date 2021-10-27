@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5023548871441384120
+  m_GuidHigh: 610721137287152261
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5382804497285913003
+      m_GuidHigh: 5263325420420714648
+    m_SerializedTextureGuid:
+      m_GuidLow: 15727801360950480191
+      m_GuidHigh: 18288733793964086218
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: twin birthdays
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5383348444200631922
+      m_GuidHigh: 1138137596124330652
+    m_SerializedTextureGuid:
+      m_GuidLow: 13557089699824306770
+      m_GuidHigh: 3467028416015548536
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: class pic
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4906835175693067193
+      m_GuidHigh: 11871941548317109911
+    m_SerializedTextureGuid:
+      m_GuidLow: 4131028376482107204
+      m_GuidHigh: 4525583943010735368
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: birth announcement
+    m_Texture: {fileID: 0}
